@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(72, 60, 72);
+  font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+  align-content: center;
+}
+
+.header {
+  color: white;
+}
+.container {
+  display: flex;
+}
+
+.section{
+  background-color: #f56868;
+  padding: 50px;
+  margin: 20px;
+  border-width: 3px;
+  border-color: white;
+  border-style: curved;
+
+}
+
+
+
